@@ -18,12 +18,12 @@ Aplikasi web untuk mengelola kost dengan fitur manajemen penghuni, kamar, tagiha
 - **Username:** `admin`
 - **Password:** `admin123`
 
-#### **Pemilik (Zaky Mubarok):**
-- **Username:** `zaky`
-- **Password:** `zaky123`
+#### **Pemilik (Andi Septian):**
+- **Username:** `andi`
+- **Password:** `andi123`
 
 ### 🎯 **Fitur Akses Pemilik**
-Sebagai pemilik aplikasi, Zaky Mubarok memiliki akses penuh ke:
+Sebagai pemilik aplikasi, andi memiliki akses penuh ke:
 
 #### **1. Dashboard**
 - Melihat statistik lengkap kost
